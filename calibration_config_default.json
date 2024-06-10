@@ -1,0 +1,24 @@
+{
+    "p_goal": [
+        200,
+        500,
+        300,
+        0,
+        180,
+        0
+    ],
+    "pen_height": 300,
+    "center_x": 200,
+    "center_y": 500,
+    "width": 210,
+    "height": 297,
+    "origin_x": 95,
+    "origin_y": 648,
+    "width_pixel": 213,
+    "height_pixel": 320,
+    "pen_height_1":0,
+    "pen_height_2":0,
+    "pen_height_3":0,
+    "pen_height_4":0
+
+}
